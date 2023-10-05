@@ -29,3 +29,19 @@ Using a fictional business scenario, analyze the provided dataset on San Francis
 
 ## Tools 🧰
 * Mircosoft SQL Server 2019
+
+# Querey Results
+
+
+Market_Sat results. The 3rd querey produced 35 records.
+
+![image](https://github.com/nneka-w/Office-Dilemma/assets/80926267/eef100b9-98ca-4ae6-9e2e-1ab43b7f415e)
+
+Competitor_Analysis: 1st querey produced 240 records and the 2nd 60 records.
+
+![image](https://github.com/nneka-w/Office-Dilemma/assets/80926267/c7428d6b-36a6-4ce3-8cb7-b8ae0388c961)
+
+![image](https://github.com/nneka-w/Office-Dilemma/assets/80926267/abf428ed-25a9-4cf9-b669-2230d60a89b2)
+
+![image](https://github.com/nneka-w/Office-Dilemma/assets/80926267/520b628a-8a94-40bb-8f5d-04e69f4105bf)
+
