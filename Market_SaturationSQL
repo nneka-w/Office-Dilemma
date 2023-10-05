@@ -33,3 +33,7 @@ WHERE ( DBAName LIKE '%Tech%' OR
 	  BusinessEndDate IS NULL 
 GROUP BY NAB
 ORDER BY NAB ASC;
+
+
+
+
