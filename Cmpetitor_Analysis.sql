@@ -12,7 +12,7 @@ WHERE (a.DBAName LIKE '%Tech%' OR a.DBAName LIKE '%Computer%')
 GROUP BY OwnershipName, BusinessStartDate
 ORDER BY BusinessStartDate ASC;
 
---- List of top competitors based on how long they been in business--
+--- List of top competitors based on how long they been in business & and if they have multiple locations--
 SELECT DISTINCT
     MAX(DBAName) AS DBAName,
     OwnershipName,
