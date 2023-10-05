@@ -4,7 +4,6 @@
 SELECT COUNT(*) as Total_Businesses
 FROM [RB$]
 WHERE ( DBAName LIKE '%Tech%' OR
-      DBAName LIKE '%Solution%' OR
       DBAName LIKE '%Computer%' ) AND
 	  NAICSCode = '5400-5499' AND
       City LIKE '%San Francisco%' AND 
@@ -14,7 +13,6 @@ WHERE ( DBAName LIKE '%Tech%' OR
 SELECT BusinessCorridor, COUNT(DBAName) as Total
 FROM RB$
 WHERE ( DBAName LIKE '%Tech%' OR
-      DBAName LIKE '%Solution%' OR
       DBAName LIKE '%Computer%' ) AND 
 	  NAICSCode = '5400-5499' AND
       City LIKE '%San Francisco%' AND 
@@ -26,7 +24,6 @@ ORDER BY BusinessCorridor ASC;
 SELECT NAB as Neighborhood, COUNT(DBAName) as Total
 FROM RB$
 WHERE ( DBAName LIKE '%Tech%' OR
-      DBAName LIKE '%Solution%' OR
       DBAName LIKE '%Computer%' ) AND
 	  NAICSCode = '5400-5499' AND
       City LIKE '%San Francisco%' AND 
