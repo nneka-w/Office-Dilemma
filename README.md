@@ -10,7 +10,7 @@ Using a fictional business scenario, analyze the provided dataset on San Francis
     - Your company operates in the NAICS industry code 541511, which corresponds to "Custom Computer Programming Services."
       
 
-## Querey and Analysis Approach 📊
+## Query and Analysis Approach 📊
 * Market Assessment: Determine the number of businesses in your industry (NAICS code 541511) within San Francisco and identify neighborhoods with the highest concentration.
 
 * Competitive Analysis: Find out who your primary competitors are, their locations, and any trends related to their business stability.
@@ -30,14 +30,14 @@ Using a fictional business scenario, analyze the provided dataset on San Francis
 ## Tools 🧰
 * Mircosoft SQL Server 2019
 
-# Querey Results
+# Query Results
 
 
-Market_Sat results. The 3rd querey produced 35 records.
+Market_Sat results. The 3rd query produced 35 records.
 
 ![image](https://github.com/nneka-w/Office-Dilemma/assets/80926267/eef100b9-98ca-4ae6-9e2e-1ab43b7f415e)
 
-Competitor_Analysis: 1st querey produced 240 records and the 2nd 60 records.
+Competitor_Analysis: 1st query produced 240 records and the 2nd 60 records.
 
 ![image](https://github.com/nneka-w/Office-Dilemma/assets/80926267/c7428d6b-36a6-4ce3-8cb7-b8ae0388c961)
 
